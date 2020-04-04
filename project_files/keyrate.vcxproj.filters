@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="..\keyrate.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\colorful_cout.hpp" />
+  </ItemGroup>
 </Project>

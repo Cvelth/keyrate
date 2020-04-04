@@ -152,6 +152,9 @@
   <ItemGroup>
     <ClCompile Include="..\keyrate.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\colorful_cout.hpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
